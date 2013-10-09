@@ -1,10 +1,10 @@
 'use strict';
 
-var db;
+var Δdb;
 
 $(document).ready(initialize);
 
 function initialize(){
   $(document).foundation();
-  db = new Firebase('enter-firebase-database-url-here');
+  Δdb = new Firebase('enter-firebase-database-url-here');
 }
