@@ -28,6 +28,7 @@
 
 // function getValue(selector, fn){
 //   var value = $(selector).val();
+//   value = value.trim();
 //   $(selector).val('');
 
 //   if(fn){
