@@ -7,7 +7,6 @@
 
 // $(document).ready(initialize);
 
-
 // function initialize(fn, flag){
 //   if(!canRun(flag)) {return;}
 
