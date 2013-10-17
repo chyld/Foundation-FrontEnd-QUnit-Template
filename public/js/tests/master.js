@@ -1,18 +1,14 @@
 // 'use strict';
 
-// module('name-of-section-for-grouping', {setup: setupTest, teardown: teardownTest});
+// module('Integration Testing', {setup: setupTest, teardown: teardownTest});
 
 // function setupTest(){
-//   Δdb.remove();
+//   initialize(null, true);
 // }
 
 // function teardownTest(){
 // }
 
-// test('name-of-test', function(){
-//   expect(2);
-// });
-
-// asyncTest('name-of-test', function(){
+// test('<name-of-feature>', function(){
 //   expect(1);
 // });
